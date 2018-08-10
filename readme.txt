@@ -1,3 +1,2 @@
-this is git command test file
+"add first"
 add new line
-add third new line
